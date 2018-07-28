@@ -1,0 +1,6 @@
+C:\Users\mathe\source\repos\AprendendoCSharp\P10-CalculaInvestimentoLongoPrazo\bin\Debug\P10-CalculaInvestimentoLongoPrazo.exe.config
+C:\Users\mathe\source\repos\AprendendoCSharp\P10-CalculaInvestimentoLongoPrazo\bin\Debug\P10-CalculaInvestimentoLongoPrazo.exe
+C:\Users\mathe\source\repos\AprendendoCSharp\P10-CalculaInvestimentoLongoPrazo\bin\Debug\P10-CalculaInvestimentoLongoPrazo.pdb
+C:\Users\mathe\source\repos\AprendendoCSharp\P10-CalculaInvestimentoLongoPrazo\obj\Debug\P10-CalculaInvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\AprendendoCSharp\P10-CalculaInvestimentoLongoPrazo\obj\Debug\P10-CalculaInvestimentoLongoPrazo.exe
+C:\Users\mathe\source\repos\AprendendoCSharp\P10-CalculaInvestimentoLongoPrazo\obj\Debug\P10-CalculaInvestimentoLongoPrazo.pdb

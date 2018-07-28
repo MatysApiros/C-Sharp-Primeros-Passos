@@ -1,0 +1,7 @@
+C:\Users\mathe\source\repos\AprendendoCSharp\4-ConcersoesEOutrosTiposNumericos\bin\Debug\4-ConcersoesEOutrosTiposNumericos.exe.config
+C:\Users\mathe\source\repos\AprendendoCSharp\4-ConcersoesEOutrosTiposNumericos\bin\Debug\4-ConcersoesEOutrosTiposNumericos.exe
+C:\Users\mathe\source\repos\AprendendoCSharp\4-ConcersoesEOutrosTiposNumericos\bin\Debug\4-ConcersoesEOutrosTiposNumericos.pdb
+C:\Users\mathe\source\repos\AprendendoCSharp\4-ConcersoesEOutrosTiposNumericos\obj\Debug\4-ConcersoesEOutrosTiposNumericos.csprojAssemblyReference.cache
+C:\Users\mathe\source\repos\AprendendoCSharp\4-ConcersoesEOutrosTiposNumericos\obj\Debug\4-ConcersoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\AprendendoCSharp\4-ConcersoesEOutrosTiposNumericos\obj\Debug\4-ConcersoesEOutrosTiposNumericos.exe
+C:\Users\mathe\source\repos\AprendendoCSharp\4-ConcersoesEOutrosTiposNumericos\obj\Debug\4-ConcersoesEOutrosTiposNumericos.pdb

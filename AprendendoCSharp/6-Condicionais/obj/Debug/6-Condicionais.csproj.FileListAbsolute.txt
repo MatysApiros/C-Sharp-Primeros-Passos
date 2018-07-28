@@ -1,0 +1,7 @@
+C:\Users\mathe\source\repos\AprendendoCSharp\6-Condicionais\bin\Debug\6-Condicionais.exe.config
+C:\Users\mathe\source\repos\AprendendoCSharp\6-Condicionais\bin\Debug\6-Condicionais.exe
+C:\Users\mathe\source\repos\AprendendoCSharp\6-Condicionais\bin\Debug\6-Condicionais.pdb
+C:\Users\mathe\source\repos\AprendendoCSharp\6-Condicionais\obj\Debug\6-Condicionais.csprojAssemblyReference.cache
+C:\Users\mathe\source\repos\AprendendoCSharp\6-Condicionais\obj\Debug\6-Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\AprendendoCSharp\6-Condicionais\obj\Debug\6-Condicionais.exe
+C:\Users\mathe\source\repos\AprendendoCSharp\6-Condicionais\obj\Debug\6-Condicionais.pdb
